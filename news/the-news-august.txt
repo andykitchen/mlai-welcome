@@ -1,0 +1,9 @@
+THE NEWS
+========
+Overfitting 5 - Open AI Dota2 900 years of gameplay per day. Do not short Nvidia.
+NLP Meetup Group - First Meetup Early September, https://www.meetup.com/melbnlp/
+Nvidia AI Conference - September 3-4 in Sydney, https://www.nvidia.com/en-au/ai-conference/
+"AI Saturdays" reading group - Docklands. Every Saturday at Sir Basil.
+FastAI beat Google in Imagenet - Best time in AWS
+AI System beat 50 Diagnosticians spotting tumors.
+James Mickens - ML and security talk.
