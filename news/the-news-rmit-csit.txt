@@ -1,0 +1,5 @@
+THE NEWS
+========
+- Google TPU on Device is expected to come soon-ish.
+- The Elephant in the room is an actual Elephant in the room.
+- If you're into Functional Programming, attend compose conference.
