@@ -1,0 +1,9 @@
+THE NEWS
+========
+- Elephants: Silverpond has an Elephant Detection Model deployed "ein the wild."" Catching poachers. Check out the case study at silverpond.com.au
+- TensorFlow 2.0 is released
+- Google has released their data set search, it's ok, I guess
+- Melbourne person developing search with unbiased results. Turns our certain words don't give you the answers you'd expect, due to bias. Contact Susie the organiser for more details.
+- Google cloud summit in Sydney next week. Chinese nationals can attend but can't go to all the sessions.
+- NVIDIA RTX released "DLSS" So you get deep learning based anti-aliasing, also tensorcores.
+- Somebody made a deep learning net in a spreadsheet. Cool!
