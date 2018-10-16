@@ -1,0 +1,11 @@
+THE NEWS
+========
+- YouTube stream called 2-minute papers
+- MIT (maybe) paper predicting where you are behind walls
+- Boston Dynamics robot can do a fucking jump up boxes
+- Recent benchmarks have come out for the RTX cards, great for deep learning, Turning > Volta
+- You can now PyTorch and Tensorflow on AMD Graphics Cards
+- PyTorch 1.0 is out! Merged with Caffe now.
+- Google dopamine library for RL had been released, tools for more reproducable RL
+- Google DeepMind finally gets on the unity wagon
+- CliniCloud/CClabs got accepted to demo at NIPS!
